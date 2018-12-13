@@ -1,0 +1,25 @@
+{
+  "name": "koa-middleware-cors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilijialiang/koa-middleware-cors.git"
+  },
+  "author": "lijialiang@yy.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lilijialiang/koa-middleware-cors/issues"
+  },
+  "homepage": "https://github.com/lilijialiang/koa-middleware-cors#readme",
+  "dependencies": {
+    "koa2-cors": "^2.0.6"
+  },
+  "devDependencies": {
+    "koa": "^2.6.2"
+  }
+}
