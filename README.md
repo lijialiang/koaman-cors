@@ -1,20 +1,20 @@
-# koa-middleware-cors
+# koaman-cors
 
 ## Install
 
 ```sh
-npm i koa-middleware-cors
+npm i koaman-cors
 
 # or
 
-yarn add koa-middleware-cors
+yarn add koaman-cors
 ```
 
 ## How to use
 
 ```js
 const Koa = require('koa')
-const cors = require('koa-middleware-cors')
+const cors = require('koaman-cors')
 
 const app = new Koa()
 

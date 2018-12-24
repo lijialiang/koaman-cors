@@ -1,5 +1,5 @@
 {
-  "name": "koa-middleware-cors",
+  "name": "koaman-cors",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lilijialiang/koa-middleware-cors.git"
+    "url": "git+https://github.com/lilijialiang/koaman-cors.git"
   },
   "author": "lijialiang@yy.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lilijialiang/koa-middleware-cors/issues"
+    "url": "https://github.com/lilijialiang/koaman-cors/issues"
   },
-  "homepage": "https://github.com/lilijialiang/koa-middleware-cors#readme",
+  "homepage": "https://github.com/lilijialiang/koaman-cors#readme",
   "dependencies": {
     "koa2-cors": "^2.0.6"
   },
